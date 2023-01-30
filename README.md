@@ -19,6 +19,5 @@
 ## 🛠 Мой _СТЭК_ :
 <image src="./src/img/html.svg" width="30px"> <image src="./src/img/css.svg" width="30px"> <image src="./src/img/jsb.svg" width="30px"> <image src="./src/img/nodejs.svg" width="30px"> <image src="./src/img/react.svg" width="30px"> <image src="./src/img/git_original_wordmark_logo_icon_146510.svg" width="30px"> <image src="./src/img/mongo.svg" width="30px"> <image src="./src/img/visual-studio-code.svg" width="30px"> <image src="./src/img/figma_logo_icon_147289.svg" width="30px"> 
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sosnitskaya92)](https://git.io/streak-stats)
 
