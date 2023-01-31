@@ -1,5 +1,5 @@
 <h1 align="center">Привет</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Меня зовут Ангелина!</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="35" width="35"/> Меня зовут Ангелина!</h1>
 <h3 align="center">Я младший Front-end разработчик</h3>
 <div align="center">
 <a href="https://vk.com/sosnitskaya92">
