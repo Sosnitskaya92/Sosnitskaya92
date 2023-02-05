@@ -1,5 +1,5 @@
 <h1 align="center">Привет</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="35" width="35"/> Меня зовут Ангелина!</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="35" width="35" alt="gif 'Hi'"/> Меня зовут Ангелина!</h1>
 <h3 align="center">Я младший Front-end разработчик</h3>
 <div align="center">
 <a href="https://vk.com/sosnitskaya92">
@@ -16,8 +16,8 @@
 - 💬 открыта к общению и к любым предложениям
 - 📫 Моя почта: AngelinaSOS@yandex.ru
 
-## 🛠 Мой _СТЭК_ :
-<image src="./src/img/html.svg" width="30px"> <image src="./src/img/css.svg" width="30px"> <image src="./src/img/jsb.svg" width="30px"> <image src="./src/img/nodejs.svg" width="30px"> <image src="./src/img/react.svg" width="30px"> <image src="./src/img/git_original_wordmark_logo_icon_146510.svg" width="30px"> <image src="./src/img/mongo.svg" width="30px"> <image src="./src/img/visual-studio-code.svg" width="30px"> <image src="./src/img/figma_logo_icon_147289.svg" width="30px"> 
+## 🛠 Мой _cтек_ :
+<image src="./src/img/html.svg" width="30px" alt="html"> <image src="./src/img/css.svg" width="30px" alt="css"> <image src="./src/img/jsb.svg" width="30px" alt="jsb"> <image src="./src/img/react.svg" width="30px" alt="react"> <image src="./src/img/git_original_wordmark_logo_icon_146510.svg" width="30px" alt="git"> <image src="./src/img/mongo.svg" width="30px" alt="mongo"> <image src="./src/img/visual-studio-code.svg" width="30px" alt="visual-studio-code"> <image src="./src/img/figma_logo_icon_147289.svg" width="30px" alt="figma"> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sosnitskaya92)](https://git.io/streak-stats)
 
